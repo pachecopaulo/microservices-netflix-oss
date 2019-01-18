@@ -1,6 +1,6 @@
 # Product Recommendation Microservices
 
-This is an example of microservices using **Spring Cloud** and **Netflix OSS** stack. 
+This is a PoC project intended to work with **Netflix OSS** stack.
 
 Each microservice is developed as standalone Spring Boot application using Gradle for continuous integration.
 
